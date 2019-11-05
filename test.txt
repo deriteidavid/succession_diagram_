@@ -1,0 +1,7 @@
+#BOOLEAN RULES
+A*=B
+B*=A
+C*=A or not D
+D*=C
+E*=B and Fx
+Fx*=E

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="CyclinD1=0;CyclinE=0;E2F1=0;pRB=1;">
+      <data key="d0">CyclinD1=0;CyclinE=0;E2F1=0;pRB=1;</data>
+    </node>
+    <node id="CyclinD1=0;CyclinE=0;E2F1=0;Myc=0;p27Kip1=1;pRB=1;">
+      <data key="d0">CyclinD1=0;CyclinE=0;E2F1=0;Myc=0;p27Kip1=1;pRB=1;</data>
+    </node>
+    <node id="CyclinD1=1;E2F1=1;pRB=0;">
+      <data key="d0">CyclinD1=1;E2F1=1;pRB=0;</data>
+    </node>
+    <node id="CyclinD1=1;CyclinE=1;E2F1=1;Myc=1;p27Kip1=0;pRB=0;">
+      <data key="d0">CyclinD1=1;CyclinE=1;E2F1=1;Myc=1;p27Kip1=0;pRB=0;</data>
+    </node>
+    <node id="E2F1=0;Myc=0;">
+      <data key="d0">E2F1=0;Myc=0;</data>
+    </node>
+    <node id="CyclinE=1;E2F1=1;p27Kip1=0;pRB=0;">
+      <data key="d0">CyclinE=1;E2F1=1;p27Kip1=0;pRB=0;</data>
+    </node>
+    <edge source="CyclinD1=0;CyclinE=0;E2F1=0;pRB=1;" target="CyclinD1=0;CyclinE=0;E2F1=0;Myc=0;p27Kip1=1;pRB=1;" />
+    <edge source="CyclinD1=1;E2F1=1;pRB=0;" target="CyclinD1=1;CyclinE=1;E2F1=1;Myc=1;p27Kip1=0;pRB=0;" />
+    <edge source="E2F1=0;Myc=0;" target="CyclinD1=0;CyclinE=0;E2F1=0;Myc=0;p27Kip1=1;pRB=1;" />
+    <edge source="CyclinE=1;E2F1=1;p27Kip1=0;pRB=0;" target="CyclinD1=1;CyclinE=1;E2F1=1;Myc=1;p27Kip1=0;pRB=0;" />
+  </graph>
+</graphml>
